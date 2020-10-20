@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  express-docker-test:
+    build: .
+    image: backendrestful:latest
+    ports:
+      - "8000:3000"
