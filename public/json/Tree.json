@@ -1,0 +1,20 @@
+[
+    {
+        "size":"medium",
+        "leafColor":"green",
+        "barkColor":"yellow",
+        "alive":true
+    },
+    {
+        "size":"small",
+        "leafColor":"yellow",
+        "barkColor":"white",
+        "alive":false
+    },
+    {
+        "size":"big",
+        "leafColor":"pink",
+        "barkColor":"brown",
+        "alive":true
+    }
+]
